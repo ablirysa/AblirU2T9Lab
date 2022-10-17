@@ -37,7 +37,7 @@ public class LuckyNumbers
         int num5 = randomIntegerBetween(1, 65);
         int sup = randomIntegerBetween(1, 30);
         String str = "Your lucky numbers are " + num1 + ", " + num2 + ", " + num3 + ", " + num4 + ", and " + num5;
-        str += "The super ball is: " + sup;
+        str += "\nThe super ball is: " + sup;
 
         return str;
     }

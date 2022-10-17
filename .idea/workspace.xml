@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47dba876-ca66-41ab-a5bb-d500ba6f96b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AblirU2T9Lab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CircleRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LuckyNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RandomNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RightTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RightTriangleRunner.java" afterDir="false" />
+    <list default="true" id="47dba876-ca66-41ab-a5bb-d500ba6f96b0" name="Changes" comment="intial commit">
+      <change afterPath="$PROJECT_DIR$/src/LuckyNumbersRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +38,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RandomNumbers">
+  <component name="RunManager" selected="Application.MathRunner">
     <configuration name="CircleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircleRunner" />
+      <module name="AblirU2T9Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LuckyNumbersRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LuckyNumbersRunner" />
+      <module name="AblirU2T9Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathRunner" />
       <module name="AblirU2T9Lab" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,6 +76,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MathRunner" />
+        <item itemvalue="Application.LuckyNumbersRunner" />
         <item itemvalue="Application.RandomNumbers" />
         <item itemvalue="Application.RightTriangleRunner" />
         <item itemvalue="Application.CircleRunner" />
@@ -87,6 +93,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666010172729</updated>
     </task>
+    <task id="LOCAL-00001" summary="intial commit">
+      <created>1666012843348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666012843348</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,5 +113,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="intial commit" />
   </component>
 </project>
